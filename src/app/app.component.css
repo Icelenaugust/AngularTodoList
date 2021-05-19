@@ -1,0 +1,12 @@
+h1{
+    margin-top: 50px;
+    color: #aa8e8d;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+}
+body{
+    background: #4d244e;
+    font-family: sans-serif;
+    border-top: 5px solid #aa8e8d;
+}
