@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-todo-app-f7439": {
+      "hosting": {
+        "angular-todo-app": [
+          "angular-todo-app-f7439"
+        ]
+      }
+    }
+  }
+}
